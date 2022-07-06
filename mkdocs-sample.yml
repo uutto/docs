@@ -1,19 +1,19 @@
 # Project information
-site_name: "Uitto Docs"
-site_description: "做一个有素质的人"
+site_name: "Nitto Docs"
+site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
 site_author: "nitto"
-site_url: "https://wiki.nitto.fun/"
+site_url: "https://nitto.netlify.app/"
 
 # Copyright
 copyright: "&copy; 2019 peaceiris"
 
- #Repository
- repo_name: "GitHub"
- repo_url: "https://github.com/uutto/docs"
- edit_uri: "https://github.com/uutto/docs/edit/main/docs_sample"
+# Repository
+repo_name: "GitHub"
+repo_url: "https://github.com/Zfqwb/mkdocs"
+edit_uri: "https://github.com/Zfqwb/mkdocs/edit/main/docs_sample"
 
 # Configuration
-docs_dir: "docs"
+docs_dir: "docs_sample"
 theme:
   name: "material"
   language: "zh"
@@ -67,5 +67,56 @@ extra:
 # Page tree
 nav:
   - "Home": "index.md"
- 
-
+  - "Mysql": "MySQL.md"
+  - "JQuery": "jquery/README.md"
+  - "AJAX": "ajax/README.md"
+  - "Redis":
+      - "day01": "redis/day01.md"
+      - "day02": "redis/day02.md"
+  - "Docker":
+      - "初识 Docker": "docker/1.md"
+      - "docker命令": "docker/2.md"
+      - "docker容器的数据卷": "docker/3.md"
+      - "docker部署容器": "docker/4.md"
+      - "Docerfile": "docker/5.md"
+      - "服务编排": "docker/6.md"
+      - "私有仓库": "docker/7.md"
+  - "MongoDB": "MongoDB/MongoDB.md"
+  - "项目一-探花交友":
+      - "day01": "tantan/day01/README.md"
+      - "day02": "tantan/day02/README.md"
+      - "day03": "tantan/day03/README.md"
+      - "day04": "tantan/day04/README.md"
+      - "day05": "tantan/day05/README.md"
+      - "day06": "tantan/day06/README.md"
+      - "day07": "tantan/day07/README.md"
+      - "day08": "tantan/day08/README.md"
+      - "day09": "tantan/day09/README.md"
+      - "day10": "tantan/day10/README.md"
+      - "补充资料":
+          - "day01_lombok": "tantan/further/lombok/README.md"
+          - "day01_mybatis_plus": "tantan/further/mybatisPlus/README.md"
+          - "day01_阿里云": "tantan/further/aliyun/README.md"
+          - "day01_单点登录及jwt": "tantan/further/sso/README.md"
+          - "day03_nginx": "tantan/further/nginx/README.md"
+          - "day03_ThreadLocal": "tantan/further/threadlocal/README.md"
+          - "day04_MongoDB": "tantan/further/mongodb/README.md"
+          - "day04_多线程@Ansy": "tantan/further/ansy/README.md"
+  - "项目二-黑马头条":
+      - "day01": "hmtt/day01/README.md"
+      - "day02": "hmtt/day02/README.md"
+      - "day03": "hmtt/day03/README.md"
+      - "day04": "hmtt/day04/README.md"
+      - "day05": "hmtt/day05/README.md"
+      - "day06": "hmtt/day06/README.md"
+      - "day07": "hmtt/day07/README.md"
+      - "day08": "hmtt/day08/README.md"
+      - "day09": "hmtt/day09/README.md"
+      - "day10": "hmtt/day10/README.md"
+      - "day11": "hmtt/day11/README.md"
+      - "day12": "hmtt/day12/README.md"
+      - "day13": "hmtt/day13/README.md"
+      - "day14": "hmtt/day14/README.md"
+      - "day15": "hmtt/day15/README.md"
+  - "面试":
+      - "e.g.1.0.0": "interview/e.g.1.0.0.md"
