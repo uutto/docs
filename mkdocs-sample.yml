@@ -65,7 +65,7 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
+  - "Home": "README.md"
   - "Mysql": "MySQL.md"
   - "JQuery": "jquery/README.md"
   - "AJAX": "ajax/README.md"
