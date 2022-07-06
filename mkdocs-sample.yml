@@ -65,6 +65,7 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
+  - "美团": "index.md"
+  - "计算机二级": "index.md"
   
 
