@@ -65,7 +65,10 @@ extra:
 
 # Page tree
 nav:
-  - "美团": "index.md"
-  - "计算机二级": "index.md"
+  - "Home": "index.md"
+  - "Mysql": "MySQL.md"
+  - "JQuery": "jquery/README.md"
+  - "AJAX": "ajax/README.md"
+  
   
 
