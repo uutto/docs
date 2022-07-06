@@ -2,15 +2,15 @@
 site_name: "Nitto Docs"
 site_description: "做一个有素质的人"
 site_author: "nitto"
-site_url: "https://nitto.fun/"
+site_url: "https://wiki.nitto.fun/"
 
 # Copyright
 copyright: "&copy; 2019 peaceiris"
 
 # Repository
-# repo_name: "GitHub"
-# repo_url: "https://github.com/Zfqwb/mkdocs"
-# edit_uri: "https://github.com/Zfqwb/mkdocs/edit/main/docs_sample"
+ repo_name: "GitHub"
+ repo_url: "https://github.com/uutto/docs"
+ edit_uri: "https://github.com/uutto/docs/edit/main/docs"
 
 # Configuration
 docs_dir: "docs"
@@ -66,6 +66,6 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
+  - "Home": "../README.md"
  
 
