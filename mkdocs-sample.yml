@@ -65,6 +65,6 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "README.md"
+  - "Home": "index.md"
   
 
