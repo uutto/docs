@@ -65,12 +65,12 @@ extra:
 
 # Page tree
 nav:
--"首页": "README.md"
--"工作"
-  - "美团": "README.md"
-  - "计算机二级": "MySQL.md"
--"学习"  
-  - "计算机二级": "MySQL.md"
+  -"首页":"README.md"
+  -"工作"
+    - "美团": "README.md"
+    - "计算机二级": "MySQL.md"
+  -"学习"  
+    - "计算机二级": "MySQL.md"
 
   
   
