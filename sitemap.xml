@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://nitto.netli/</loc>
+         <loc>https://wiki.nitto.fun/</loc>
          <lastmod>2022-07-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://nitto.netli/license/</loc>
+         <loc>https://wiki.nitto.fun/license/</loc>
          <lastmod>2022-07-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
