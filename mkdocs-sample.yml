@@ -2,7 +2,7 @@
 site_name: "Nitto Docs"
 site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
 site_author: "nitto"
-site_url: "https://nitto.netlify.app/"
+site_url: "https://nitto.netli/"
 
 # Copyright
 copyright: "&copy; 2019 peaceiris"
@@ -66,6 +66,6 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "../README.md"
+  - "Home": "README.md"
   
 
